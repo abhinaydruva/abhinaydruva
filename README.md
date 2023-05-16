@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**abhinaydruva/abhinaydruva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+**abhinaydruva/abhinaydruva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Abhinay Nalam(011683075) Pantry Node Portfolio
 ## Summary:
@@ -35,4 +35,4 @@ Issue related to the Forget Password and Verification Page was resolved, as docu
 
 - [Added Test Cases in SaleTable](https://github.com/ChicoState/PantryNode/pull/225)
 
--->
+
